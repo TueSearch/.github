@@ -1,3 +1,3 @@
-# TueSearch
+# TueSearch - Tübingen Search
 
-This is a organization for the final group project of the corse **modern serach engines** at the university of tuebingen
+Final group project of the master course **Modern Search Engines** at the University of Tübingen.
